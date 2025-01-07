@@ -28,9 +28,9 @@ Es un software informático donde puedes diseñar, construir sitios o aplicacion
 
 Para iniciar sesion (login) debe de ser con **usuario `admin`** y **contraseña `admin123`**, ya entrando a la agencia de viajes podremos hacer comentado al inicio y por último para cerrar sesion solo le damos clic en `cerrar sesion`
 
-# Licencia
+# Comentarios finales
 
-Este proyecto lo puede hacer cualquier persona, ya que es basico el proyecto, muy interesante de aprender
+Este proyecto lo puede hacer cualquier persona, muy interesante de aprender y si apenas estas entrando al mundo de base de datos, este proyecto te ayudara muchísimo.
 
 # Agradecimiento 
 

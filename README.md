@@ -32,7 +32,6 @@ Para iniciar sesion (login) debe de ser con **usuario `admin`** y **contraseña 
 
 Este proyecto lo puede hacer cualquier persona, ya que es basico el proyecto, muy interesante de aprender
 
+# Agradecimiento 
 
-
-
-**MUCHAS GRACIAS POR LEER** 😁
+**MUCHAS GRACIAS POR TOMARTE EL TIEMPO DE LEER MI PROYECTO.** 😁

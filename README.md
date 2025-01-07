@@ -11,11 +11,11 @@ Este proyecto nos ayuda a conocer mas el entorno tecnologico, como los softwares
 
 # Xampp
 
-es un software de codigo abierto donde podemos crear sitios web, crear bases de datos, tablas.
+Es un software de codigo abierto donde podemos crear sitios web, crear bases de datos, tablas.
 
 # Dreamweaver 
 
-es un software informático donde puedes diseñar, construir sitios o aplicaciones web 
+Es un software informático donde puedes diseñar, construir sitios o aplicaciones web 
 
 # Explicacion
 
@@ -24,8 +24,12 @@ es un software informático donde puedes diseñar, construir sitios o aplicacion
 3. **Debemos de asegurar que la conexion.php para que ejecute bien**
 4. **Abre este link: `http://localhost/San/login.php`**
 
-Para iniciar sesion (login) debe de ser con **usuario `admin`** y **contraseña `admin123`**, ya entrando a la agencia de viajes podremos hacer comentado al inicio y para cerrar sesion solo le damos clic en `cerrar sesion`
+# Funcion 
+
+Para iniciar sesion (login) debe de ser con **usuario `admin`** y **contraseña `admin123`**, ya entrando a la agencia de viajes podremos hacer comentado al inicio y por último para cerrar sesion solo le damos clic en `cerrar sesion`
 
 # Licencia
 
 Este proyecto lo puede hacer cualquier persona, ya que es basico el proyecto, muy interesante de aprender
+
+**MUCHAS GRACIAS POR LEER** 😁

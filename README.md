@@ -6,5 +6,5 @@ Este CRUD se basa en una agencia de viajes donde puedes crear tu boleto, te leer
 
 Este proyecto nos ayuda a conocer mas el entorno tecnologico, como los softwares ocupados para este CRUD que fueron 
 
-1.Xampp
-2.dreamweaver 
+1. **Xampp**
+2. **Dreamweaver** 

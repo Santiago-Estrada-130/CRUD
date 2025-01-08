@@ -15,7 +15,7 @@ Es un software de codigo abierto donde podemos crear sitios web, crear bases de 
 
 # Dreamweaver 
 
-Es un software informático donde puedes diseñar, construir sitios o aplicaciones web 
+Es un software informático donde puedes diseñar, construir sitios o aplicaciones web, HTML.
 
 # Explicacion
 
